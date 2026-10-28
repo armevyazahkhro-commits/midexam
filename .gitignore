@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -21,3 +22,28 @@ local.properties
 # Ada Library Information
 *.ali
 >>>>>>> 9e4106e5ab7ee3863437778a4db28509d9b2dde5
+=======
+<<<<<<< HEAD
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+=======
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+>>>>>>> 9e4106e5ab7ee3863437778a4db28509d9b2dde5
+>>>>>>> f570d03d0f347f296e9aa2371d04a9a75de097fc
